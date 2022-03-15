@@ -43,19 +43,19 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3 align="left">Github stats:</h3>
-<a align="center  "href="https://github-readme-stats.vercel.app/api?username=kaveenakash&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark">
-	<p><img align="center  "src="https://github-readme-stats.vercel.app/api?username=kaveenakash&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark" /></p>
+<a align="center  "href="https://github-readme-stats.vercel.app/api?username=EGManeeshaDissanayake&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark">
+	<p><img align="center  "src="https://github-readme-stats.vercel.app/api?username=EGManeeshaDissanayake&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark" /></p>
 </a> 
 
 
 <br/>
  
-<a align="center"  href="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveenakash&layout=compact&hide_border=true&theme=vue-dark">
-	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveenakash&&hide_border=true&layout=compact&theme=vue-dark" /></p>
+<a align="center"  href="https://github-readme-stats.vercel.app/api/top-langs/?username=EGManeeshaDissanayake&layout=compact&hide_border=true&theme=vue-dark">
+	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGManeeshaDissanayake&&hide_border=true&layout=compact&theme=vue-dark" /></p>
 </a>
 <br/>
-<a align="center"  href="https://github-readme-streak-stats.herokuapp.com/?user=kaveenakash&hide_border=true">
-	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaveenakash&theme=vue-dark&hide_border=true" alt="kaveenakash" /></p>
+<a align="center"  href="https://github-readme-streak-stats.herokuapp.com/?user=EGManeeshaDissanayake&hide_border=true">
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EGManeeshaDissanayake&theme=vue-dark&hide_border=true" alt="kaveenakash" /></p>
 </a>
 
 ---
