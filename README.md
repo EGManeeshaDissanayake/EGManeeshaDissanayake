@@ -13,14 +13,14 @@
 
 - 👀 I’m interested in web development...
 - 🌱 I’m currently learning Javascript libraries(next js , express js)...
-- 💼 I’m currently work as a Software Engineer at pearson 
+- 💼 I’m currently undergraduate student at SLIIT. 
 - 🥅 2022 Goals: Contribute more to projects
-- ⚡ Fun fact: I love to play chess
+- ⚡ Fun fact: I love to play Valorant
 - 😄 Pronouns: He/Him
-- 📫 Contact Me at - kaveenakashya@gmail.com
+- 📫 Contact Me at - maneeshadissanayakeeg@gmail.com
 
 <!---
-kaveenakash/kaveenakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maneesha Dissanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
