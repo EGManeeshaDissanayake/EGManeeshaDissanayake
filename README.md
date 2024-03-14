@@ -14,7 +14,7 @@
 - 👀 I’m interested in web development...
 - 🌱 I’m currently learning Javascript libraries(next js , express js)...
 - 💼 I’m currently undergraduate student at SLIIT. 
-- 🥅 2022 Goals: Contribute more to projects
+- 🥅 2024 Goals: Contribute more to projects
 - ⚡ Fun fact: I love to play Valorant
 - 😄 Pronouns: He/Him
 - 📫 Contact Me at - maneeshadissanayakeeg@gmail.com
